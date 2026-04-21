@@ -15,5 +15,5 @@ Make sure your terminal is opened in the same directory where cli.py is located.
 If not, navigate to the correct folder using:
 cd path/to/your/project
 
-You can copy the folder path by right‑clicking the directory in your file explorer and selecting Copy as path
-If running through cmd and not bash, first change the directory if it's different from C: by typing the name of the driver, e.g. E:
+You can copy the folder path by right‑clicking the directory in your file explorer and selecting Copy as path.
+If running through cmd and not bash, first change the directory if it's different from C: by typing the name of the driver, e.g. E:.
