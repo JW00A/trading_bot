@@ -1,0 +1,4 @@
+2026-04-21 17:45:55,718 - ERROR - Error: Price is required for LIMIT orders
+2026-04-21 17:45:59,272 - INFO - Order placed: {'orderId': 'f304fa4a-7667-46aa-a1c2-09ba79e7093d', 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'status': 'NEW', 'executedQty': 0, 'avgPrice': 35000.0, 'timestamp': 1776807959259}
+2026-04-21 17:46:06,576 - INFO - Order placed: {'orderId': '60a00a2f-aa1f-4b2b-8e94-338d7bb80482', 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': 100.0, 'timestamp': 1776807966576}
+2026-04-21 17:46:14,515 - INFO - Order placed: {'orderId': '5ff8cfa3-1189-4e29-be2b-2251c37efec3', 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'status': 'NEW', 'executedQty': 0, 'avgPrice': 35000.0, 'timestamp': 1776807974515}
